@@ -1,0 +1,8 @@
+# Never publish the development source workspace
+WEB-SOURCE/
+WEB/
+
+# Local tooling
+node_modules/
+*.local
+.DS_Store
