@@ -6,3 +6,6 @@ WEB/
 node_modules/
 *.local
 .DS_Store
+
+# AI agent skills - not for deployment
+.agents/
